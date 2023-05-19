@@ -38,6 +38,16 @@ import {
       id: "contact",
       title: "Contact",
     },
+    {
+      id: "git",
+      title: "Github",
+      url:"https://github.com/ayush2514",
+    },
+    {
+      id: "linkedin",
+      title: "Linkedin",
+      url:"https://www.linkedin.com/in/ayush-raj-9967951b8/",
+    },
   ];
   
   const services = [
